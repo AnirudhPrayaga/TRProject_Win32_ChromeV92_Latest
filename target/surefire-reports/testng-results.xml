@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TradeRev" duration-ms="48745" started-at="2021-08-26T16:54:41 CDT" finished-at="2021-08-26T16:55:30 CDT">
+    <groups>
+    </groups>
+    <test name="Automation_Challenge_P1" duration-ms="18457" started-at="2021-08-26T16:54:41 CDT" finished-at="2021-08-26T16:55:00 CDT">
+      <class name="KGTR.Problem1">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:KGTR.Problem1@63753b6d]" name="initializeBrowser" is-config="true" duration-ms="5708" started-at="2021-08-26T16:54:41 CDT" finished-at="2021-08-26T16:54:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="CanadaCareersPageDisplay_Vrfy()[pri:0, instance:KGTR.Problem1@63753b6d]" name="CanadaCareersPageDisplay_Vrfy" duration-ms="10337" started-at="2021-08-26T16:54:47 CDT" finished-at="2021-08-26T16:54:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanadaCareersPageDisplay_Vrfy -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:KGTR.Problem1@63753b6d]" name="tearDown" is-config="true" duration-ms="2361" started-at="2021-08-26T16:54:57 CDT" finished-at="2021-08-26T16:55:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- KGTR.Problem1 -->
+    </test> <!-- Automation_Challenge_P1 -->
+    <test name="Automation_Challenge_P2" duration-ms="13370" started-at="2021-08-26T16:55:00 CDT" finished-at="2021-08-26T16:55:13 CDT">
+      <class name="KGTR.Problem2">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:KGTR.Problem2@47ef968d]" name="initializeBrowser" is-config="true" duration-ms="2026" started-at="2021-08-26T16:55:00 CDT" finished-at="2021-08-26T16:55:02 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="CanadianOpps_JobLocFilter_Vrfy()[pri:0, instance:KGTR.Problem2@47ef968d]" name="CanadianOpps_JobLocFilter_Vrfy" duration-ms="8183" started-at="2021-08-26T16:55:02 CDT" finished-at="2021-08-26T16:55:10 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanadianOpps_JobLocFilter_Vrfy -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:KGTR.Problem2@47ef968d]" name="tearDown" is-config="true" duration-ms="3160" started-at="2021-08-26T16:55:10 CDT" finished-at="2021-08-26T16:55:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- KGTR.Problem2 -->
+    </test> <!-- Automation_Challenge_P2 -->
+    <test name="Automation_Challenge_P3" duration-ms="16772" started-at="2021-08-26T16:55:13 CDT" finished-at="2021-08-26T16:55:30 CDT">
+      <class name="KGTR.Problem3">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:KGTR.Problem3@3701eaf6]" name="initializeBrowser" is-config="true" duration-ms="2270" started-at="2021-08-26T16:55:13 CDT" finished-at="2021-08-26T16:55:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="CanadaOpps_JobLocTeamFilters_Vrfy()[pri:0, instance:KGTR.Problem3@3701eaf6]" name="CanadaOpps_JobLocTeamFilters_Vrfy" duration-ms="13202" started-at="2021-08-26T16:55:15 CDT" finished-at="2021-08-26T16:55:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanadaOpps_JobLocTeamFilters_Vrfy -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:KGTR.Problem3@3701eaf6]" name="tearDown" is-config="true" duration-ms="1299" started-at="2021-08-26T16:55:28 CDT" finished-at="2021-08-26T16:55:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- KGTR.Problem3 -->
+    </test> <!-- Automation_Challenge_P3 -->
+  </suite> <!-- TradeRev -->
+</testng-results>
