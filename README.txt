@@ -8,7 +8,7 @@ If the errors still persist please try with updating your local chrome browser
 and/or installing the chromedriver according to your current chrome browser version in the 'Browserdrivers' folder.
 
 ```
-git clone 
+git clone https://github.com/AnirudhPrayaga/TRProject_Win32_ChromeV92_Latest.git
 cd TRProject
 mvn clean test
 ```
