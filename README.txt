@@ -9,7 +9,7 @@ and/or installing the chromedriver according to your current chrome browser vers
 
 ```
 git clone https://github.com/AnirudhPrayaga/TRProject_Win32_ChromeV92_Latest.git
-cd TRProject
+cd TRProject_Win32_ChromeV92_Latest
 mvn clean test
 ```
 
